@@ -59,7 +59,7 @@ namespace ConsoleApp1
                     default:
                         Console.WriteLine("1~3번 숫자만 입력해주세요.");
                         break;
-                    }
+                }
             }
         }
     }
